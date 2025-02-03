@@ -1,3 +1,16 @@
+# Projeto de Estudo 
+
+Este repositório é um **projeto de estudo** baseado no conteúdo disponibilizado pelo canal [QAPapito](https://www.youtube.com/channel/UCyS67QG3w2mK9OXXVFSa-VQ). O objetivo é praticar e aprimorar os conhecimentos adquiridos ao seguir as aulas do referido canal.
+
+## Descrição
+
+O projeto foi originalmente desenvolvido e disponibilizado pelo canal **QAPapito**, e foi clonado neste repositório para fins de estudo e aprendizado. Através deste repositório, busquei realizar um aprofundamento prático, realizando modificações e explorando as soluções apresentadas nas aulas.
+
+## Objetivo
+
+O objetivo deste repositório é aprimorar os conhecimentos sobre testes de performance com k6, através da aplicação prática de conceitos aprendidos no curso.
+
+
 # Introdução aos testes de performance com k6
 
 <h1 align="left">
@@ -59,5 +72,5 @@ yarn dev
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-Feito com 💜 &nbsp;por Fernando Papito 👋 &nbsp;[Meu linkedin](https://www.linkedin.com/in/papitoio/)
+Projeto original e feito por Fernando Papito:
+https://github.com/weareqacademy/curso-k6-basico
